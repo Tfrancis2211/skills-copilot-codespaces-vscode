@@ -1,4 +1,5 @@
 .devcontainer/devcontainer.json
+<body>
 {
     // Name this configuration
     "name": "Codespace for Skills!",
@@ -10,3 +11,4 @@
         }
     }
 }
+</body>
